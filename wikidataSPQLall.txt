@@ -1,0 +1,46 @@
+# Used to get films w/ language English and published after Jan 1 1 1915
+# Based off of the query builder https://w.wiki/6zgd
+
+# Obtaints values where available and documented for Genre, World Wide Box Office, USA Box Office, US Release Date, Rotten Tomato Score, Budget
+
+SELECT DISTINCT ?item ?title ?genreLabel ?boxofficeww ?boxofficeusa ?publicationdate ?reviewscore (GROUP_CONCAT( DISTINCT ?cost_with_unit; SEPARATOR = "~~~") AS ?budget) WHERE {
+  ?item p:P364 ?statement0.
+  ?statement0 (ps:P364/(wdt:P279*)) wd:Q1860.
+  ?item p:P577 ?statement_1.
+  ?statement_1 psv:P577 ?statementValue_1.
+  ?statementValue_1 wikibase:timePrecision ?precision_1.
+  FILTER(?precision_1 >= 11 )
+  ?statementValue_1 wikibase:timeValue ?P577_1.
+  FILTER(?P577_1 > "+1915-01-01T00:00:00Z"^^xsd:dateTime)
+  ?item p:P31 ?statement2.
+  ?statement2 (ps:P31/(wdt:P279*)) wd:Q11424.
+  ?item p:P2142 ?statement3.
+  ?statement3 (psv:P2142/wikibase:quantityAmount) ?numericQuantity.
+  
+  ?item wdt:P31 wd:Q11424 .
+  ?item wdt:P1476 ?title .
+  ?item wdt:P136 ?genre .
+  OPTIONAL { ?item p:P2142 [ ps:P2142 ?boxofficeww; pq:P3005 wd:Q13780930 ] . } # worldwide
+  OPTIONAL { ?item p:P2142 [ ps:P2142 ?boxofficeusa; pq:P3005 wd:Q30 ] . } #usEarnings
+  
+  OPTIONAL {
+    ?item wdt:P2130 ?_cost.
+    # get the node to the cost statement
+    ?item p:P2130 ?stmnode.
+    # then its value node
+    ?stmnode psv:P2130 ?valuenode.
+    # then its unit, i.e. currency as entity
+    ?valuenode wikibase:quantityUnit ?unit.
+    # then finally, its label 
+    ?unit wdt:P498 ?unitLabel .
+    # put everything together
+    BIND(CONCAT(str(?_cost), " ", str(?unitLabel)) as ?cost_with_unit)
+  }
+  
+  OPTIONAL { ?item p:P577 [ ps:P577 ?publicationdate; pq:P291 wd:Q30 ]. } # publication date usa
+  
+  OPTIONAL { ?item p:P444 [ ps:P444 ?reviewscore; pq:P447 wd:Q105584 ] . } # rotten tomatos review score
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+}
+GROUP BY ?item ?title ?genreLabel ?boxofficeww ?boxofficeusa ?publicationdate ?reviewscore

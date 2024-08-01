@@ -1,0 +1,330 @@
+title,release_year,genres,score,budget,revenue,duplicated_status
+X,2022,"Horror, Mystery, Thriller",68.0,1000000.0,15113105.0,True
+X,2011,"Action, Thriller, Romance",65.0,1000000.0,15113105.0,True
+Wuthering Heights,1992,"Drama, Romance",67.0,8000000.0,2721534.0,True
+Wuthering Heights,2012,"Drama, Romance",59.0,8000000.0,2721534.0,True
+Wrong Turn,2021,"Horror, Thriller",60.0,10000000.0,28649556.0,True
+Wrong Turn,2003,"Horror, Thriller",63.0,10000000.0,28649556.0,True
+Wonder Woman,2017,"Action, Adventure, Fantasy",72.0,150000000.0,817691766.0,True
+Wonder Woman,2009,"Action, Adventure, Animation, Fantasy, Science Fiction",72.0,150000000.0,817691766.0,True
+White Noise,2022,"Comedy, Drama, Science Fiction",56.0,10000000.0,92094360.0,True
+White Noise,2005,"Drama, Horror, Thriller",56.0,10000000.0,92094360.0,True
+West Side Story,2021,"Drama, Romance, Crime",71.0,100000000.0,74826329.0,True
+West Side Story,1961,"Crime, Drama, Romance",73.0,100000000.0,74826329.0,True
+Warlock,1989,"Horror, Fantasy, Action",63.0,7000000.0,8824553.0,True
+Warlock,1959,Western,67.0,7000000.0,8824553.0,True
+Walking Tall,2004,"Adventure, Drama, Action, Thriller",63.0,56000000.0,47856383.0,True
+Walking Tall,1973,"Action, Crime, Drama",67.0,56000000.0,47856383.0,True
+Vice,2015,"Thriller, Science Fiction, Action, Adventure",44.0,60000000.0,70893782.0,True
+Vice,2018,"Comedy, Drama",71.0,60000000.0,70893782.0,True
+Venom,2018,"Science Fiction, Action",68.0,116000000.0,856081053.0,True
+Venom,2005,"Horror, Thriller",55.0,116000000.0,856081053.0,True
+True Grit,2011,"Drama, Adventure, Western",73.0,35000000.0,252276928.0,True
+True Grit,1969,Western,74.0,35000000.0,252276928.0,True
+Total Recall,2012,"Action, Science Fiction, Thriller",60.0,65000000.0,261399830.0,True
+Total Recall,1990,"Action, Adventure, Science Fiction",73.0,65000000.0,261399830.0,True
+Titanic,1997,"Drama, Romance",79.0,200000000.0,2222985568.0,True
+Titanic,1953,"Drama, Romance",66.0,200000000.0,2222985568.0,True
+The Way Back,2020,Drama,66.0,23000000.0,14563409.0,True
+The Way Back,2011,"Drama, Adventure, History",70.0,23000000.0,14563409.0,True
+The Time Machine,2002,"Science Fiction, Adventure, Action",62.0,80000000.0,98983590.0,True
+The Time Machine,1960,"Thriller, Adventure, Fantasy, Science Fiction, Romance",74.0,80000000.0,98983590.0,True
+The Three Musketeers,2011,"Adventure, Action, Thriller",58.0,90000000.0,139877913.0,True
+The Three Musketeers,1973,"Adventure, Comedy, History",69.0,90000000.0,139877913.0,True
+The Three Musketeers,1993,"Action, Adventure, Comedy",64.0,90000000.0,139877913.0,True
+The Thomas Crown Affair,1969,"Crime, Drama, Romance, Thriller",69.0,48000000.0,124304264.0,True
+The Thomas Crown Affair,1999,"Drama, Crime, Romance",67.0,48000000.0,124304264.0,True
+The Thing,1982,"Horror, Mystery, Science Fiction",80.0,38000000.0,27573078.0,True
+The Thing,2011,"Horror, Science Fiction, Mystery, Thriller",62.0,38000000.0,27573078.0,True
+The Ten Commandments,1958,"Drama, History",78.0,13500000.0,85433929.0,True
+The Ten Commandments,2007,"Animation, Drama, Family, History",52.0,13500000.0,85433929.0,True
+The Ten Commandments,1923,Drama,68.0,13500000.0,85433929.0,True
+The Siege,1998,"Drama, Action, Thriller, Crime",63.0,70000000.0,116625798.0,True
+The Siege,2023,"Action, Thriller",50.0,70000000.0,116625798.0,True
+The Saint,2017,"Action, Adventure, Crime",53.0,90000000.0,169400000.0,True
+The Saint,1997,"Thriller, Action, Romance, Science Fiction, Adventure",61.0,90000000.0,169400000.0,True
+The Punisher,2004,"Action, Crime, Drama",63.0,33000000.0,54533774.0,True
+The Punisher,1989,"Action, Thriller",57.0,33000000.0,54533774.0,True
+The Pink Panther,1964,"Comedy, Crime",69.0,80000000.0,158926474.0,True
+The Pink Panther,2006,"Comedy, Mystery, Crime, Adventure, Family",58.0,80000000.0,158926474.0,True
+The Omen,1976,"Horror, Thriller",74.0,25000000.0,119295584.0,True
+The Omen,2006,Horror,56.0,25000000.0,119295584.0,True
+The Nutty Professor,1996,"Fantasy, Comedy, Romance, Science Fiction",56.0,55000000.0,273814019.0,True
+The Nutty Professor,1963,"Comedy, Romance, Science Fiction",66.0,55000000.0,273814019.0,True
+The Mummy,1999,"Adventure, Action, Fantasy",69.0,80000000.0,416385488.0,True
+The Mummy,2017,"Fantasy, Thriller, Action, Adventure, Horror",55.0,80000000.0,416385488.0,True
+The Misfits,2021,"Action, Thriller",55.0,4000000.0,8200000.0,True
+The Misfits,1961,"Western, Drama, Action, Romance",69.0,4000000.0,8200000.0,True
+The Magnificent Seven,2016,"Adventure, Action, Western",64.0,90000000.0,162122642.0,True
+The Magnificent Seven,1987,"Western, Action, Adventure",75.0,90000000.0,162122642.0,True
+The Longest Yard,2005,Comedy,66.0,82000000.0,191558505.0,True
+The Longest Yard,1974,"Comedy, Drama",68.0,82000000.0,191558505.0,True
+The Lion King,1994,"Family, Animation, Drama",83.0,260000000.0,1647733638.0,True
+The Lion King,2019,"Adventure, Drama, Family",71.0,260000000.0,1647733638.0,True
+The Last House on the Left,2009,"Crime, Thriller, Horror, Drama",64.0,15000000.0,46526243.0,True
+The Last House on the Left,2004,"Horror, Thriller",60.0,15000000.0,46526243.0,True
+The Kid,2000,"Fantasy, Comedy, Family",65.0,65000000.0,69688384.0,True
+The Kid,2021,"Comedy, Drama",82.0,65000000.0,69688384.0,True
+The Karate Kid,2010,"Action, Adventure, Drama, Family",65.0,40000000.0,351774938.0,True
+The Karate Kid,1984,"Action, Family, Drama",72.0,40000000.0,351774938.0,True
+The Jungle Book,1968,"Family, Animation, Adventure",73.0,175000000.0,953535821.0,True
+The Jungle Book,2016,"Family, Adventure, Drama, Fantasy",69.0,175000000.0,953535821.0,True
+The Jungle Book,1994,"Family, Adventure, Drama",60.0,175000000.0,953535821.0,True
+The Italian Job,2003,"Action, Crime",68.0,60000000.0,176262839.0,True
+The Italian Job,1969,"Action, Crime, Comedy, Thriller",70.0,60000000.0,176262839.0,True
+The Invitation,2022,"Horror, Thriller",64.0,1000000.0,354836.0,True
+The Invitation,2015,"Thriller, Horror",65.0,1000000.0,354836.0,True
+The Hunchback of Notre Dame,1996,"Drama, Animation, Family",71.0,100000000.0,325500000.0,True
+The Hunchback of Notre Dame,1939,"Drama, Romance, Horror",73.0,100000000.0,325500000.0,True
+The Hills Have Eyes,2006,"Horror, Thriller",64.0,17000000.0,70355813.0,True
+The Hills Have Eyes,1977,"Horror, Thriller",62.0,17000000.0,70355813.0,True
+The Grudge,2020,"Horror, Mystery",55.0,10000000.0,187281115.0,True
+The Grudge,2004,"Horror, Mystery, Thriller",59.0,10000000.0,187281115.0,True
+The Great Gatsby,2013,"Drama, Romance",74.0,190000000.0,353640419.0,True
+The Great Gatsby,1974,"Drama, Romance",63.0,190000000.0,353640419.0,True
+The Girl Next Door,2004,"Comedy, Romance",67.0,25000000.0,31635150.0,True
+The Girl Next Door,2007,"Thriller, Crime, Drama, Horror",67.0,25000000.0,31635150.0,True
+The Gift,2001,"Horror, Drama, Thriller, Mystery",64.0,5000000.0,58978477.0,True
+The Gift,2015,"Thriller, Mystery, Drama",67.0,5000000.0,58978477.0,True
+The Fog,2005,"Horror, Thriller",45.0,18000000.0,37048526.0,True
+The Fog,1980,Horror,67.0,18000000.0,37048526.0,True
+The Day the Earth Stood Still,2008,"Drama, Science Fiction, Thriller",56.0,80000000.0,237370350.0,True
+The Day the Earth Stood Still,1951,"Drama, Science Fiction",75.0,80000000.0,237370350.0,True
+The Beguiled,2017,Drama,59.0,10000000.0,28039038.0,True
+The Beguiled,1971,"Drama, Thriller, War",70.0,10000000.0,28039038.0,True
+The Avengers,2012,"Science Fiction, Action, Adventure",77.0,225000000.0,1515100211.0,True
+The Avengers,1998,"Thriller, Science Fiction, Action, Adventure",44.0,225000000.0,1515100211.0,True
+The Amityville Horror,2005,Horror,61.0,18500000.0,109175673.0,True
+The Amityville Horror,1979,Horror,63.0,18500000.0,109175673.0,True
+The Addams Family,2019,"Family, Animation, Comedy, Fantasy, Horror",66.0,24000000.0,200588546.0,True
+The Addams Family,1991,"Comedy, Fantasy",70.0,24000000.0,200588546.0,True
+Terrifier,2016,"Horror, Thriller",66.0,35000.0,0.0,True
+Terrifier,2011,Horror,64.0,35000.0,0.0,True
+Teenage Mutant Ninja Turtles,2014,"Science Fiction, Action, Adventure, Comedy",59.0,125000000.0,485004754.0,True
+Teenage Mutant Ninja Turtles,1990,"Science Fiction, Action, Adventure, Comedy, Family",66.0,125000000.0,485004754.0,True
+Tarzan,1999,"Family, Adventure, Animation, Drama",74.0,145000000.0,448191819.0,True
+Tarzan,2014,"Animation, Action, Adventure, Family",57.0,145000000.0,448191819.0,True
+Spider-Man,2002,"Fantasy, Action",73.0,139000000.0,821706375.0,True
+Spider-Man,1977,"Science Fiction, Action, Crime, TV Movie",59.0,139000000.0,821706375.0,True
+Spartacus,1960,"History, War, Drama, Adventure",76.0,12000000.0,60000000.0,True
+Spartacus,2004,"Action, Drama",69.0,12000000.0,60000000.0,True
+Smile,2022,"Horror, Mystery, Thriller",68.0,17000000.0,216049734.0,True
+Smile,1975,Comedy,63.0,17000000.0,216049734.0,True
+Shut In,2022,"Thriller, Horror, Drama",70.0,10000000.0,11360665.0,True
+Shut In,2016,"Drama, Thriller",53.0,10000000.0,11360665.0,True
+Shaft,2020,"Action, Crime",66.0,53012938.0,107190108.0,True
+Shaft,2000,"Action, Adventure, Crime, Thriller",60.0,53012938.0,107190108.0,True
+Shaft,1971,"Action, Crime, Thriller",65.0,53012938.0,107190108.0,True
+Serenity,2005,"Science Fiction, Action, Adventure, Thriller",74.0,39000000.0,40319440.0,True
+Serenity,2019,"Thriller, Mystery, Drama",54.0,39000000.0,40319440.0,True
+Scream,2022,"Horror, Mystery, Thriller",67.0,15000000.0,173046640.0,True
+Scream,1997,"Crime, Horror, Mystery",74.0,15000000.0,173046640.0,True
+Scream,1981,"Horror, Mystery",41.0,15000000.0,173046640.0,True
+Scarface,1984,"Action, Crime, Drama",82.0,25000000.0,44942821.0,True
+Scarface,1932,"Action, Crime, Drama, Thriller",75.0,25000000.0,44942821.0,True
+Saw,2004,"Horror, Mystery, Crime",74.0,1200000.0,103880027.0,True
+Saw,2003,"Crime, Horror, Thriller",70.0,1200000.0,103880027.0,True
+RoboCop,1987,"Action, Thriller, Science Fiction",73.0,120000000.0,242981799.0,True
+RoboCop,2014,"Science Fiction, Action",58.0,120000000.0,242981799.0,True
+Robin Hood,2010,"Action, Adventure, Drama",64.0,210000000.0,322459006.0,True
+Robin Hood,2013,"Animation, Family",73.0,210000000.0,322459006.0,True
+Robin Hood,2019,"Adventure, Action, Thriller",59.0,210000000.0,322459006.0,True
+Reminiscence,2023,"Drama, Romance",0.0,67972729.0,15449322.0,True
+Reminiscence,2021,"Mystery, Science Fiction",67.0,67972729.0,15449322.0,True
+Red Dawn,2012,"Action, Thriller",57.0,65000000.0,48164150.0,True
+Red Dawn,1984,"Action, Thriller, War, Drama",63.0,65000000.0,48164150.0,True
+Rampage,2018,"Action, Adventure, Science Fiction",64.0,120000000.0,427947217.0,True
+Rampage,2010,"Action, Crime, Thriller",60.0,120000000.0,427947217.0,True
+Psycho,1960,"Horror, Drama, Thriller",84.0,20000000.0,37226218.0,True
+Psycho,1998,"Mystery, Thriller, Horror",51.0,20000000.0,37226218.0,True
+Prey,2022,"Thriller, Action, Science Fiction",78.0,65000000.0,0.0,True
+Prey,2009,"Adventure, Horror, Thriller",57.0,65000000.0,0.0,True
+Power Rangers,2017,"Action, Adventure, Science Fiction",63.0,120000000.0,142531552.0,True
+Power Rangers,2015,"Action, Science Fiction",71.0,120000000.0,142531552.0,True
+Poltergeist,2015,Horror,52.0,10700000.0,121706019.0,True
+Poltergeist,1982,Horror,71.0,10700000.0,121706019.0,True
+Point Break,1992,"Action, Thriller, Crime",71.0,100000000.0,126704591.0,True
+Point Break,2016,"Action, Adventure, Crime, Thriller",59.0,100000000.0,126704591.0,True
+Planet of the Apes,2001,"Thriller, Science Fiction, Action, Adventure",57.0,100000000.0,362211740.0,True
+Planet of the Apes,1968,"Science Fiction, Adventure, Drama, Action",76.0,100000000.0,362211740.0,True
+Pinocchio,2022,"Fantasy, Adventure, Family",65.0,2289247.0,84300000.0,True
+Pinocchio,1940,"Animation, Family",71.0,2289247.0,84300000.0,True
+Peter Pan,1953,"Animation, Family, Adventure, Fantasy",72.0,100000000.0,95255485.0,True
+Peter Pan,2003,"Adventure, Fantasy, Family",72.0,100000000.0,95255485.0,True
+Pet Sematary,1989,"Horror, Drama",66.0,21000000.0,111809732.0,True
+Pet Sematary,2019,"Horror, Thriller",57.0,21000000.0,111809732.0,True
+Payback,1999,"Crime, Action, Drama",68.0,50000000.0,161626121.0,True
+Payback,2021,"Crime, Drama, Thriller",60.0,50000000.0,161626121.0,True
+Passengers,2016,"Drama, Romance, Science Fiction",69.0,110000000.0,302239672.0,True
+Passengers,2009,"Drama, Mystery, Thriller, Romance",61.0,110000000.0,302239672.0,True
+Papillon,2018,Drama,73.0,13500000.0,53292989.0,True
+Papillon,1974,"Crime, Drama",79.0,13500000.0,53292989.0,True
+Overboard,2018,"Romance, Comedy",67.0,12000000.0,91244913.0,True
+Overboard,1988,"Comedy, Romance",68.0,12000000.0,91244913.0,True
+Ocean's Eleven,2002,"Thriller, Crime",74.0,85000000.0,450728529.0,True
+Ocean's Eleven,1960,"Crime, Comedy, Music",64.0,85000000.0,450728529.0,True
+No Escape,2015,Thriller,69.0,5000000.0,42844516.0,True
+No Escape,1994,"Action, Drama, Science Fiction, Thriller",63.0,5000000.0,42844516.0,True
+Night of the Living Dead,1990,"Horror, Thriller",68.0,114000.0,30087064.0,True
+Night of the Living Dead,1968,"Horror, Thriller",76.0,114000.0,30087064.0,True
+Murder on the Orient Express,2017,"Drama, Mystery, Crime",67.0,55000000.0,351767147.0,True
+Murder on the Orient Express,1974,"Drama, Thriller, Mystery",72.0,55000000.0,351767147.0,True
+Mulan,1998,"Animation, Family, Adventure",79.0,90000000.0,303500000.0,True
+Mulan,2020,"Adventure, Fantasy, Drama, Action",69.0,90000000.0,303500000.0,True
+Mortal Kombat,2021,"Action, Fantasy, Adventure",71.0,20000000.0,122133227.0,True
+Mortal Kombat,1995,"Action, Fantasy",58.0,20000000.0,122133227.0,True
+Midway,2019,"Action, Drama, War, History, Adventure",71.0,100000000.0,126815030.0,True
+Midway,1976,"Action, Drama, History, War",66.0,100000000.0,126815030.0,True
+Marmaduke,2022,"Animation, Family, Comedy, Adventure",55.0,50000000.0,89895930.0,True
+Marmaduke,2010,"Family, Comedy",53.0,50000000.0,89895930.0,True
+Lolita,1997,Drama,71.0,2000000.0,9250000.0,True
+Lolita,1962,"Drama, Comedy, Romance",74.0,2000000.0,9250000.0,True
+Little Women,2020,"Drama, Romance, History",79.0,42000000.0,218838386.0,True
+Little Women,1994,"Drama, Romance",73.0,42000000.0,218838386.0,True
+Life,2017,"Horror, Science Fiction, Mystery, Thriller",64.0,58000000.0,101815660.0,True
+Life,1999,"Comedy, Crime",66.0,58000000.0,101815660.0,True
+Les Misérables,2012,"History, Drama",73.0,65000000.0,438420442.0,True
+Les Misérables,1998,"Crime, Drama, History, Romance",72.0,65000000.0,438420442.0,True
+Legend,2015,"Crime, Thriller",70.0,25000000.0,42425450.0,True
+Legend,1986,"Adventure, Fantasy",62.0,25000000.0,42425450.0,True
+Lady and the Tramp,1956,"Family, Animation, Romance",71.0,60000000.0,0.0,True
+Lady and the Tramp,2019,"Family, Romance, Comedy",73.0,60000000.0,0.0,True
+King Kong,2005,"Adventure, Drama, Action",69.0,207000000.0,550517357.0,True
+King Kong,1976,"Adventure, Fantasy",62.0,207000000.0,550517357.0,True
+King Kong,1933,"Adventure, Fantasy, Horror",76.0,207000000.0,550517357.0,True
+Journey to the Center of the Earth,2008,"Action, Science Fiction, Adventure, Comedy, Family",61.0,45000000.0,243180937.0,True
+Journey to the Center of the Earth,1959,"Adventure, Fantasy, Family",70.0,45000000.0,243180937.0,True
+Intruders,2011,"Thriller, Horror, Fantasy",54.0,1587000.0,8019.0,True
+Intruders,2016,"Drama, Thriller, Horror",59.0,1587000.0,8019.0,True
+Inferno,2016,"Mystery, Thriller, Drama, Action",61.0,75000000.0,219519367.0,True
+Inferno,1999,"Action, Drama, Romance",61.0,75000000.0,219519367.0,True
+Hercules,1997,"Animation, Family, Fantasy, Adventure, Comedy, Romance",75.0,70000000.0,250700000.0,True
+Hercules,2014,"Action, Adventure",58.0,70000000.0,250700000.0,True
+Hellraiser,2022,"Horror, Mystery",64.0,1000000.0,14575148.0,True
+Hellraiser,1987,"Horror, Thriller",69.0,1000000.0,14575148.0,True
+Hellboy,2019,"Fantasy, Horror, Action, Adventure",55.0,60000000.0,99823958.0,True
+Hellboy,2004,"Fantasy, Action",67.0,60000000.0,99823958.0,True
+Halloween II,1982,Horror,66.0,2500000.0,25533818.0,True
+Halloween II,2009,Horror,54.0,2500000.0,25533818.0,True
+Halloween,1979,"Horror, Thriller",76.0,10000000.0,255416089.0,True
+Halloween,2018,"Horror, Thriller",65.0,10000000.0,255416089.0,True
+Halloween,2007,Horror,62.0,10000000.0,255416089.0,True
+Hairspray,2007,"Comedy, Romance, Drama",67.0,75000000.0,202822861.0,True
+Hairspray,1988,"Comedy, Drama, Romance",69.0,75000000.0,202822861.0,True
+Godzilla,2014,"Action, Drama, Science Fiction",63.0,160000000.0,529076069.0,True
+Godzilla,1998,"Science Fiction, Action, Thriller",56.0,160000000.0,529076069.0,True
+Gladiator,2000,"Action, Drama, Adventure",82.0,103000000.0,452282115.0,True
+Gladiator,1992,"Action, Drama",76.0,103000000.0,452282115.0,True
+Ghostbusters,2016,"Action, Fantasy, Comedy",54.0,30000000.0,295585416.0,True
+Ghostbusters,1984,"Comedy, Fantasy",75.0,30000000.0,295585416.0,True
+Frozen,2013,"Animation, Family, Adventure, Fantasy",72.0,150000000.0,1256887580.0,True
+Frozen,2010,Thriller,60.0,150000000.0,1256887580.0,True
+Fright Night,1985,"Comedy, Horror",70.0,30000000.0,40520649.0,True
+Fright Night,2011,"Horror, Comedy",62.0,30000000.0,40520649.0,True
+Friday the 13th,1980,Horror,64.0,17000000.0,92670237.0,True
+Friday the 13th,2009,Horror,57.0,17000000.0,92670237.0,True
+Freaky Friday,2003,"Comedy, Family, Fantasy",64.0,26000000.0,160822438.0,True
+Freaky Friday,2018,"Family, Fantasy, TV Movie, Comedy",55.0,26000000.0,160822438.0,True
+Fortress,2022,"Action, Thriller, Crime",60.0,12000000.0,46730578.0,True
+Fortress,1993,"Action, Thriller, Science Fiction",61.0,12000000.0,46730578.0,True
+Footloose,1984,"Drama, Romance",67.0,8200000.0,80008943.0,True
+Footloose,2011,"Drama, Music, Romance",66.0,8200000.0,80008943.0,True
+Flatliners,1990,"Drama, Science Fiction, Horror",65.0,26000000.0,61308153.0,True
+Flatliners,2018,"Drama, Horror, Thriller",57.0,26000000.0,61308153.0,True
+Firestarter,2022,"Science Fiction, Thriller, Horror",58.0,15000000.0,15136870.0,True
+Firestarter,1984,"Horror, Thriller, Science Fiction",63.0,15000000.0,15136870.0,True
+Fantastic Four,2015,"Action, Adventure, Science Fiction",44.0,87500000.0,333132750.0,True
+Fantastic Four,2005,"Action, Adventure, Fantasy, Science Fiction",58.0,87500000.0,333132750.0,True
+Extraction,2020,"Drama, Action, Thriller",73.0,65000000.0,0.0,True
+Extraction,2015,"Action, Thriller",46.0,65000000.0,0.0,True
+Extinction,2018,"Action, Drama, Science Fiction, Thriller",60.0,20000000.0,2360000.0,True
+Extinction,2015,"Drama, Horror, Science Fiction",62.0,20000000.0,2360000.0,True
+Escape Room,2019,"Horror, Thriller, Mystery",65.0,9000000.0,155615727.0,True
+Escape Room,2017,"Horror, Thriller, Fantasy",49.0,9000000.0,155615727.0,True
+Endless Love,1981,"Romance, Drama",57.0,20000000.0,34718173.0,True
+Endless Love,2014,"Drama, Romance",69.0,20000000.0,34718173.0,True
+Elvis,2022,"Drama, Music, History",77.0,85000000.0,279854594.0,True
+Elvis,1979,"Drama, Music, TV Movie",67.0,85000000.0,279854594.0,True
+Dune,2021,"Science Fiction, Adventure",78.0,165000000.0,391774790.0,True
+Dune,1984,"Action, Science Fiction, Adventure",62.0,165000000.0,391774790.0,True
+Dumbo,1942,"Animation, Family",70.0,170000000.0,353166307.0,True
+Dumbo,2019,"Family, Fantasy, Adventure",67.0,170000000.0,353166307.0,True
+Driven,2001,"Action, Drama",52.0,72000000.0,54616869.0,True
+Driven,2019,"Thriller, History",63.0,72000000.0,54616869.0,True
+Dreamcatcher,2021,"Horror, Mystery, Thriller",60.0,68000000.0,75685268.0,True
+Dreamcatcher,2003,"Drama, Horror, Science Fiction, Thriller",56.0,68000000.0,75685268.0,True
+Doctor Strange,2016,"Action, Adventure, Fantasy",74.0,165000000.0,676343174.0,True
+Doctor Strange,2007,"Action, Animation, Fantasy, Science Fiction",68.0,165000000.0,676343174.0,True
+Doctor Dolittle,1998,"Comedy, Family, Fantasy",57.0,71500000.0,294156605.0,True
+Doctor Dolittle,1967,"Comedy, Family, Fantasy",62.0,71500000.0,294156605.0,True
+Dirty Dancing,1988,"Drama, Music, Romance",74.0,6000000.0,214577242.0,True
+Dirty Dancing,2017,"Drama, Romance",55.0,6000000.0,9816585.2,True
+Diary of a Wimpy Kid: Rodrick Rules,2022,"Animation, Comedy, Family",71.0,18000000.0,73695194.0,True
+Diary of a Wimpy Kid: Rodrick Rules,2011,"Family, Comedy",66.0,18000000.0,73695194.0,True
+Diary of a Wimpy Kid,2021,"Animation, Comedy, Family",63.0,15000000.0,76954311.0,True
+Diary of a Wimpy Kid,2010,"Comedy, Family",62.0,15000000.0,76954311.0,True
+Death on the Nile,2022,"Mystery, Drama, Crime, Thriller, Action, Adventure",65.0,90000000.0,130298184.0,True
+Death on the Nile,1978,Mystery,71.0,90000000.0,130298184.0,True
+Death at a Funeral,2007,"Comedy, Drama",69.0,21000000.0,48977233.0,True
+Death at a Funeral,2010,Comedy,58.0,21000000.0,48977233.0,True
+Death Wish,2018,"Action, Crime, Drama, Thriller",61.0,30000000.0,48575965.0,True
+Death Wish,1975,"Crime, Drama, Action",69.0,30000000.0,48575965.0,True
+Dawn of the Dead,2004,"Horror, Action",70.0,28000000.0,103452875.0,True
+Dawn of the Dead,1985,Horror,75.0,28000000.0,103452875.0,True
+Creed,2015,Drama,74.0,37000000.0,173567581.0,True
+Creed,2010,Horror,80.0,37000000.0,173567581.0,True
+Crash,1997,Drama,65.0,7303082.0,101173038.0,True
+Crash,2005,Drama,72.0,7303082.0,101173038.0,True
+Conan the Barbarian,2011,"Adventure, Fantasy, Action",53.0,20000000.0,79114085.0,True
+Conan the Barbarian,1982,"Adventure, Fantasy, Action",68.0,20000000.0,79114085.0,True
+Collide,2022,"Thriller, Drama, Crime",54.0,29200000.0,5466698.0,True
+Collide,2017,"Thriller, Action",55.0,29200000.0,5466698.0,True
+Clash of the Titans,2010,"Adventure, Fantasy, Action",59.0,125000000.0,493214888.0,True
+Clash of the Titans,1981,"Action, Adventure, Fantasy, Romance",69.0,125000000.0,493214888.0,True
+Cinderella,1950,"Family, Fantasy, Animation, Romance",70.0,95000000.0,542351353.0,True
+Cinderella,2015,"Romance, Fantasy, Family, Drama",68.0,95000000.0,542351353.0,True
+Cinderella,2021,"Fantasy, Romance, Comedy",64.0,95000000.0,542351353.0,True
+Children of the Corn,1984,"Horror, Thriller",57.0,800000.0,14568989.0,True
+Children of the Corn,2023,"Horror, Thriller",55.0,800000.0,2119530.2,True
+Cheaper by the Dozen,2022,"Family, Comedy",65.0,40000000.0,190212113.0,True
+Cheaper by the Dozen,2004,"Comedy, Family",63.0,40000000.0,190212113.0,True
+Charlie's Angels,2019,"Action, Adventure, Comedy",65.0,90000000.0,259736090.0,True
+Charlie's Angels,2000,"Action, Adventure, Comedy, Crime, Thriller",58.0,90000000.0,259736090.0,True
+Casino Royale,2006,"Adventure, Action, Thriller",75.0,102000000.0,594420216.0,True
+Casino Royale,1989,"Adventure, Action, Comedy",53.0,102000000.0,594420216.0,True
+Carrie,2002,"Drama, Horror, TV Movie",61.0,30000000.0,82409520.0,True
+Carrie,2013,"Drama, Horror",60.0,30000000.0,82409520.0,True
+Carrie,1976,"Horror, Thriller",73.0,30000000.0,82409520.0,True
+Cape Fear,1992,"Crime, Thriller",73.0,35000000.0,182291969.0,True
+Cape Fear,1962,"Drama, Thriller",74.0,35000000.0,182291969.0,True
+Broken Arrow,1950,Western,68.0,65000000.0,148345997.0,True
+Broken Arrow,1996,"Action, Thriller, Adventure",60.0,65000000.0,148345997.0,True
+Beowulf,2007,"Adventure, Action, Animation",59.0,150000000.0,195080579.0,True
+Beowulf,1999,"Adventure, Fantasy, Action",43.0,150000000.0,195080579.0,True
+Ben-Hur,1960,"Action, Drama, History",79.0,95000000.0,91669648.0,True
+Ben-Hur,2016,"Action, History, Adventure, Drama",57.0,95000000.0,91669648.0,True
+Beauty and the Beast,1992,"Romance, Family, Animation, Fantasy",77.0,160000000.0,1268697483.0,True
+Beauty and the Beast,2017,"Family, Fantasy, Romance",70.0,160000000.0,1268697483.0,True
+Batman,1989,"Fantasy, Action, Crime",72.0,35000000.0,411348924.0,True
+Batman,1967,"Action, Comedy, Crime",63.0,35000000.0,411348924.0,True
+Bad Boys,1995,"Action, Comedy, Crime, Thriller",68.0,23000000.0,141247413.0,True
+Bad Boys,1983,"Crime, Drama, Thriller",70.0,23000000.0,141247413.0,True
+Awake,2021,"Drama, Science Fiction, Thriller",60.0,8600000.0,32968648.0,True
+Awake,2007,"Thriller, Crime, Mystery",65.0,8600000.0,32968648.0,True
+Assassins,2020,Documentary,69.0,50000000.0,83306268.0,True
+Assassins,1995,"Action, Adventure, Crime, Thriller",65.0,50000000.0,83306268.0,True
+Arthur,2011,"Comedy, Romance",56.0,40000000.0,47787943.0,True
+Arthur,1981,"Comedy, Drama, Romance",65.0,40000000.0,47787943.0,True
+Annie,2014,"Comedy, Drama, Family",62.0,65000000.0,139829625.0,True
+Annie,1982,"Comedy, Drama, Family",65.0,65000000.0,139829625.0,True
+Alice in Wonderland,2010,"Family, Fantasy, Adventure",66.0,200000000.0,1025491110.0,True
+Alice in Wonderland,1951,"Animation, Family, Fantasy, Adventure",72.0,200000000.0,1025491110.0,True
+Alice in Wonderland,1999,"Fantasy, Family",63.0,200000000.0,1025491110.0,True
+Aladdin,2019,"Adventure, Fantasy, Romance, Family",71.0,182000000.0,1046587513.0,True
+Aladdin,1993,"Animation, Family, Adventure, Fantasy, Romance",76.0,182000000.0,1046587513.0,True
+After,2019,"Romance, Drama",72.0,14000000.0,57926850.0,True
+After,2014,"Mystery, Thriller",56.0,14000000.0,57926850.0,True
+A Nightmare on Elm Street,1985,Horror,73.0,35000000.0,117729618.0,True
+A Nightmare on Elm Street,2010,"Horror, Mystery, Thriller",55.0,35000000.0,117729618.0,True
+12 Angry Men,1957,Drama,85.0,340000.0,379.0,True
+12 Angry Men,1997,"Crime, Drama, TV Movie",77.0,340000.0,379.0,True
